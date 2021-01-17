@@ -1,0 +1,27 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: chocolate;
+  background-image: url('images/bg.jpg');
+}
+canvas {
+  margin-left:50px;
+  margin-right: 50px;
+  margin-top: 100px;
+  display: block;
+}
+button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+img {
+  border: 5px solid #555;
+}
